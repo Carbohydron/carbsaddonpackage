@@ -1,4 +1,4 @@
-#Carbohydron's Addon Package for Vanilla World of Warcraft.
+# Carbohydron's Addon Package for Vanilla World of Warcraft.
 
 To install
  - Click "Clone or download"
@@ -11,4 +11,4 @@ Once done, your structure should look like this
    - \_LazySpell
    - Atlas
    - AtlasLoot
-   - _etc
+   - _etc_
