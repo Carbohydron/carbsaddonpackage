@@ -8,7 +8,7 @@ To install:
 
 Once done, your structure should look like this
  - Addons
-   - \_LazySpell
    - Atlas
    - AtlasLoot
+   - AtlasQuest
    - _etc_
