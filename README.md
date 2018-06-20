@@ -1,6 +1,6 @@
-# Carbohydron's Addon Package for Vanilla World of Warcraft.
+# Carb's Addon Package for Vanilla WoW
 
-To install
+To install:
  - Click "Clone or download"
  - Download Zip
  - Download the zip file to /World of Warcraft/Interface/Addons and unzip
